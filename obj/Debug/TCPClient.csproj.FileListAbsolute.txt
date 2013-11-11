@@ -1,0 +1,116 @@
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.Form1.resources
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\bin\Debug\TCPClient.exe
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\bin\Debug\TCPClient.pdb
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.exe
+D:\My Documents\Visual Studio 2008\Projects\TCPClient\obj\Debug\TCPClient.pdb
+E:\SIAT\C#网络编程\远程控制\聊天\TCPClient\bin\Debug\TCPClient.exe.config
+E:\SIAT\C#网络编程\远程控制\聊天\TCPClient\obj\Debug\TCPClient.exe
+E:\SIAT\C#网络编程\远程控制\聊天\TCPClient\obj\Debug\TCPClient.pdb
+E:\SIAT\C#网络编程\远程控制\聊天\TCPClient\bin\Debug\TCPClient.exe
+E:\SIAT\C#网络编程\远程控制\聊天\TCPClient\bin\Debug\TCPClient.pdb
+E:\SIAT\C#网络编程\远程控制\聊天\TCPClient\obj\Debug\ResolveAssemblyReference.cache
+E:\SIAT\C#网络编程\远程控制\聊天\TCPClient\obj\Debug\TCPClient.Form1.resources
+E:\SIAT\C#网络编程\远程控制\聊天\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+E:\SIAT\C#网络编程\远程控制\聊天\TCPClient\obj\Debug\GenerateResource.read.1.tlog
+E:\SIAT\C#网络编程\远程控制\聊天\TCPClient\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\聊天\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\聊天\TCPClient\obj\Debug\TCPClient.exe
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\聊天\TCPClient\obj\Debug\TCPClient.pdb
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\聊天\TCPClient\bin\Debug\TCPClient.exe
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\聊天\TCPClient\bin\Debug\TCPClient.pdb
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\聊天\TCPClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\聊天\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\聊天\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\聊天\TCPClient\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\聊天\TCPClient\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\网络计算\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\网络计算\TCPClient\bin\Debug\TCPClient.exe
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\网络计算\TCPClient\bin\Debug\TCPClient.pdb
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\网络计算\TCPClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\网络计算\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\网络计算\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\网络计算\TCPClient\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\网络计算\TCPClient\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\网络计算\TCPClient\obj\Debug\TCPClient.exe
+C:\Documents and Settings\Administrator\桌面\10.4网络编程\网络计算\TCPClient\obj\Debug\TCPClient.pdb
+C:\Documents and Settings\Administrator\桌面\10.9\10.9新\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Documents and Settings\Administrator\桌面\10.9\10.9新\TCPClient\obj\Debug\TCPClient.exe
+C:\Documents and Settings\Administrator\桌面\10.9\10.9新\TCPClient\obj\Debug\TCPClient.pdb
+C:\Documents and Settings\Administrator\桌面\任国稳—项目\10.9新\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Documents and Settings\Administrator\桌面\任国稳—项目\10.9新\TCPClient\bin\Debug\TCPClient.exe
+C:\Documents and Settings\Administrator\桌面\任国稳—项目\10.9新\TCPClient\bin\Debug\TCPClient.pdb
+C:\Documents and Settings\Administrator\桌面\任国稳—项目\10.9新\TCPClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\任国稳—项目\10.9新\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Documents and Settings\Administrator\桌面\任国稳—项目\10.9新\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\任国稳—项目\10.9新\TCPClient\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\任国稳—项目\10.9新\TCPClient\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\任国稳—项目\10.9新\TCPClient\obj\Debug\TCPClient.exe
+C:\Documents and Settings\Administrator\桌面\任国稳—项目\10.9新\TCPClient\obj\Debug\TCPClient.pdb
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\10.9新\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\10.9新\TCPClient\obj\Debug\TCPClient.exe
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\10.9新\TCPClient\obj\Debug\TCPClient.pdb
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\当前在做\10.10\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\当前在做\10.10\TCPClient\obj\Debug\TCPClient.exe
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\当前在做\10.10\TCPClient\obj\Debug\TCPClient.pdb
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\当前在做\10.10\TCPClient\bin\Debug\TCPClient.exe
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\当前在做\10.10\TCPClient\bin\Debug\TCPClient.pdb
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\当前在做\10.10\TCPClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\当前在做\10.10\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\当前在做\10.10\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\当前在做\10.10\TCPClient\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\任国稳_项目\当前在做\10.10\TCPClient\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\当前在做\10.10\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Documents and Settings\Administrator\桌面\当前在做\10.10\TCPClient\obj\Debug\TCPClient.exe
+C:\Documents and Settings\Administrator\桌面\当前在做\10.10\TCPClient\obj\Debug\TCPClient.pdb
+C:\Documents and Settings\Administrator\桌面\10.24\socket\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Documents and Settings\Administrator\桌面\10.24\socket\TCPClient\obj\Debug\TCPClient.exe
+C:\Documents and Settings\Administrator\桌面\10.24\socket\TCPClient\obj\Debug\TCPClient.pdb
+C:\Documents and Settings\Administrator\桌面\当前在做\10.24网络编程\socket\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Documents and Settings\Administrator\桌面\当前在做\10.24网络编程\socket\TCPClient\obj\Debug\TCPClient.exe
+C:\Documents and Settings\Administrator\桌面\当前在做\10.24网络编程\socket\TCPClient\obj\Debug\TCPClient.pdb
+C:\Documents and Settings\Administrator\桌面\当前在做\10.24网络编程\socket\TCPClient\bin\Debug\TCPClient.exe
+C:\Documents and Settings\Administrator\桌面\当前在做\10.24网络编程\socket\TCPClient\bin\Debug\TCPClient.pdb
+C:\Documents and Settings\Administrator\桌面\当前在做\10.24网络编程\socket\TCPClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\当前在做\10.24网络编程\socket\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Documents and Settings\Administrator\桌面\当前在做\10.24网络编程\socket\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\当前在做\10.24网络编程\socket\TCPClient\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\当前在做\10.24网络编程\socket\TCPClient\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myClient\TCPClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myClient\TCPClient\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myClient\TCPClient\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Documents and Settings\Administrator\桌面\串口助手+服务器客户端确定版本\myClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myClient\TCPClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myClient\TCPClient\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\当前在做\串口助手+服务器客户端确定版本\myClient\TCPClient\obj\Debug\GenerateResource.write.1.tlog
+E:\串口助手+服务器客户端确定版本\修正确定版\myClient_1\TCPClient\bin\Debug\TCPClient.exe.config
+E:\串口助手+服务器客户端确定版本\修正确定版\myClient_1\TCPClient\bin\Debug\TCPClient.exe
+E:\串口助手+服务器客户端确定版本\修正确定版\myClient_1\TCPClient\bin\Debug\TCPClient.pdb
+E:\串口助手+服务器客户端确定版本\修正确定版\myClient_1\TCPClient\obj\Debug\ResolveAssemblyReference.cache
+E:\串口助手+服务器客户端确定版本\修正确定版\myClient_1\TCPClient\obj\Debug\TCPClient.Form1.resources
+E:\串口助手+服务器客户端确定版本\修正确定版\myClient_1\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+E:\串口助手+服务器客户端确定版本\修正确定版\myClient_1\TCPClient\obj\Debug\GenerateResource.read.1.tlog
+E:\串口助手+服务器客户端确定版本\修正确定版\myClient_1\TCPClient\obj\Debug\GenerateResource.write.1.tlog
+E:\串口助手+服务器客户端确定版本\修正确定版\myClient_1\TCPClient\obj\Debug\TCPClient.exe
+E:\串口助手+服务器客户端确定版本\修正确定版\myClient_1\TCPClient\obj\Debug\TCPClient.pdb
+E:\code\PCCommunicationAssistant\myClient_1\TCPClient\bin\Debug\TCPClient.exe.config
+E:\code\PCCommunicationAssistant\myClient_1\TCPClient\obj\Debug\TCPClient.exe
+E:\code\PCCommunicationAssistant\myClient_1\TCPClient\obj\Debug\TCPClient.pdb
+E:\code\PCCommunicationAssistant\myClient\TCPClient\bin\Debug\TCPClient.exe.config
+E:\code\PCCommunicationAssistant\myClient\TCPClient\obj\Debug\TCPClient.exe
+E:\code\PCCommunicationAssistant\myClient\TCPClient\obj\Debug\TCPClient.pdb
